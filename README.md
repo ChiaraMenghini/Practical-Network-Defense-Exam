@@ -1,4 +1,4 @@
-# Practical-Network-Defense-Exam
+# Practical Network Defense
 
 Team project for Sapienza’s **Practical Network Defense** course. We hardened a multi-zone lab (WAN / DMZ / Internal / Clients) using **OPNsense** firewalls, enforced least-privilege segmentation, enabled proxy-gated egress, centralized logging to **rsyslog + Graylog**, and provided controlled remote access via **road-warrior** and **site-to-site IPSec** VPNs. Validation included connectivity/diagnostic checks, `tcpdump` SNAT tracing, and **Greenbone (GVM)** scans.
 
